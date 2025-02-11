@@ -1,4 +1,4 @@
-# Linux System Hardening Cheatsheet
+# Linux System Hardening Cheat Sheet
 
 ## 1. **System Updates & Patches**
 ### Keep OS & Packages Updated
@@ -365,6 +365,6 @@ sudo ss -tulpn
     *   [SANS Institute Website](https://www.sans.org/)
 *   **Linux Security Hardening Guides:** (Search for distro-specific guides, e.g., "Ubuntu Linux Security Hardening Guide")
 
-This cheatsheet covers essential baseline hardening steps with actionable commands, it is basic so there are many things can be added for different purposes,
+This cheat sheet covers essential baseline hardening steps with actionable commands, it is basic so there are many things can be added for different purposes,
 Contributions welcome on GitHub! 
 Enjoy! - Yetkin
